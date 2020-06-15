@@ -1,0 +1,11 @@
+ul{
+    display: flex;
+    flex-flow : row wrap;
+    justify-content: space-around;
+    align-content: space-between;
+}
+
+.MemeList-h1{
+    color: white;
+    letter-spacing: 0.2rem;
+}

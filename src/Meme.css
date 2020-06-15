@@ -1,0 +1,16 @@
+.Meme-single{
+    background-color: #FBFBF8;
+    border-radius: 1.5em;
+    height: 425px;
+    width: 300px;
+    text-align:center;
+    list-style-type: none;
+    padding: 1rem;
+    margin-top: 50px;
+    box-shadow: 100px 100px rgb(20, 20, 200);
+}
+
+.Meme-img{
+    height: auto;
+    width: 300px;
+}

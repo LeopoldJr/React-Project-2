@@ -1,0 +1,27 @@
+.MemeForm{
+    
+}
+.MemeForm-label{
+    color: white;
+    display: block;
+    padding: 0.5rem;
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.MemeForm-preview{
+    background-color: #FBFBF8;
+    border-radius: 1.5em;
+    height: 425px;
+    width: 300px;
+    text-align: center;
+    list-style-type: none;
+    padding: 1rem;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.MemeForm-preview-img{
+    height: auto;
+    width: 300px;
+}
